@@ -21,3 +21,15 @@ h3{
 button{
     text-align: center;
 }
+.myExp{
+background-color: red;
+width: 500px;
+height: 300px;
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+order:1;
+}
+.thirdExp{
+    order: 0;
+}
